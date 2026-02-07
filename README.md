@@ -1,14 +1,24 @@
-# Hi, I'm Ujwal 👋
+# Hi, I’m Ujwal 👋
+**First-year engineering student | Learning to build with code**
 
-I am a First Year engineering student with a passion for building things with code. I’m currently focused on learning the fundamentals so I can explore different fields like Software Engineering, Web Development and Game Dev.
+I’m passionate about building things with code and strengthening my fundamentals in programming. I’m currently exploring areas like Software Engineering, Web Development, and Game Development. I enjoy learning by doing — building small projects, breaking things, and fixing them again.
 
-### What I’m learning right now:
-* **C & Python:** Getting my logic and basics strong.
-* **The Plan:** Moving on to Java and eventually exploring Web frameworks and Unity/C#.
+My long-term goal is to become a versatile developer who can work across different platforms and technologies.
 
-### My Goal:
-I want to become a versatile developer who can work across different platforms. Right now, I'm just enjoying the process of learning how to code and building my first few projects.
+### What I’m learning right now 🚀
+- **C** – Fundamentals & problem-solving
+- **Python** – Basics and scripting
+- **Git & GitHub** – Version control
+- **DSA** – Beginner level
+
+### What’s next 📌
+- **Java** (Object-Oriented Programming)
+- **Web Development** basics
+- **Unity & C#** (Game Development)
+
+### Let’s connect 🤝
+- **LinkedIn:** [ujwal-gopalghare](https://www.linkedin.com/in/ujwal-gopalghare-508906364)
+- **Email:** ujwalgopalghare@gmail.com
 
 ---
-**Let's connect:**
-[LinkedIn Profile](https://www.linkedin.com/in/ujwal-gopalghare-508906364)
+*“Consistency matters more than quantity. Building day by day.”*
