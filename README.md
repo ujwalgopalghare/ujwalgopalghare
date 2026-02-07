@@ -6,15 +6,15 @@ I’m passionate about building things with code and strengthening my fundamenta
 My long-term goal is to become a versatile developer who can work across different platforms and technologies.
 
 ### What I’m learning right now 🚀
-- **C** – Fundamentals & problem-solving
-- **Python** – Basics and scripting
-- **Git & GitHub** – Version control
-- **DSA** – Beginner level
+- **C**  –  Fundamentals & problem-solving
+- **Python**  –  Basics and scripting
+- **Git  &  GitHub**  –  Version control
+- **DSA**  –  Beginner level
 
 ### What’s next 📌
-- **Java** (Object-Oriented Programming)
-- **Web Development** basics
-- **Unity & C#** (Game Development)
+- **Java**  (Object-Oriented Programming)
+- **Web Development**  basics
+- **Unity  &  C#**  (Game Development)
 
 ### Let’s connect 🤝
 - **LinkedIn:** [ujwal-gopalghare](https://www.linkedin.com/in/ujwal-gopalghare-508906364)
