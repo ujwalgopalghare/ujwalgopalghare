@@ -1,6 +1,6 @@
 # Hi, I'm Ujwal 👋
 
-I am a First Year engineering student with a passion for building things with code. I’m currently focused on learning the fundamentals so I can explore different fields like Web Development, Software Engineering, and Game Dev.
+I am a First Year engineering student with a passion for building things with code. I’m currently focused on learning the fundamentals so I can explore different fields like Software Engineering, Web Development and Game Dev.
 
 ### What I’m learning right now:
 * **C & Python:** Getting my logic and basics strong.
@@ -11,4 +11,4 @@ I want to become a versatile developer who can work across different platforms. 
 
 ---
 **Let's connect:**
-[LinkedIn Profile](www.linkedin.com/in/ujwal-gopalghare-508906364)
+[LinkedIn Profile](https://www.linkedin.com/in/ujwal-gopalghare-508906364)
