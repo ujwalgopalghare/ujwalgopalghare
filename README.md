@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ujwal 👋
 
-<!--
-**ujwalgopalghare/ujwalgopalghare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a First Year engineering student with a passion for building things with code. I’m currently focused on learning the fundamentals so I can explore different fields like Web Development, Software Engineering, and Game Dev.
 
-Here are some ideas to get you started:
+### What I’m learning right now:
+* **C & Python:** Getting my logic and basics strong.
+* **The Plan:** Moving on to Java and eventually exploring Web frameworks and Unity/C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Goal:
+I want to become a versatile developer who can work across different platforms. Right now, I'm just enjoying the process of learning how to code and building my first few projects.
+
+---
+**Let's connect:**
+[LinkedIn Profile](www.linkedin.com/in/ujwal-gopalghare-508906364)
