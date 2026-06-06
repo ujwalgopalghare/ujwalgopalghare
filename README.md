@@ -1,26 +1,19 @@
-# Hello, I'm Ujwal 
+# Hello, I'm Ujwal
 
-A Second-year engineering student exploring software development, game development and creative technology.
+Second-year engineering student exploring software development, game development and creative technology.
 
-I've worked with Python, C, Java, DSA and frontend web development, and I'm currently learning backend development while continuing to build projects and explore new technologies.
+I've worked with Python, C, Java, DSA and frontend web development, and I'm currently learning backend development.
 
-## Technologies
-
-- Python
-- Java
-- C
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Unity
+## Current Focus
+- Backend Development
+- App Development
+- Game Development
 
 ## Projects
-
 - IKS Project Website
-- More projects coming soon
+
+## Technologies
+Python • Java • C • HTML • CSS • JavaScript • Git • GitHub • Unity
 
 ## Connect
-
-LinkedIn: https://www.linkedin.com/in/ujwal-gopalghare/
-Portfolio: https://mandirvastu.online/
+LinkedIn: (https://www.linkedin.com/in/ujwal-gopalghare/)
