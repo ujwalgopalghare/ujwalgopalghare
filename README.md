@@ -1,24 +1,26 @@
-# Hi, I’m Ujwal 👋
-**First-year engineering student | Learning to build with code**
+# Hello, I'm Ujwal 
 
-I’m passionate about building things with code and strengthening my fundamentals in programming. I’m currently exploring areas like Software Engineering, Web Development, and Game Development. I enjoy learning by doing — building small projects, breaking things, and fixing them again.
+A Second-year engineering student exploring software development, game development and creative technology.
 
-My long-term goal is to become a versatile developer who can work across different platforms and technologies.
+I've worked with Python, C, Java, DSA and frontend web development, and I'm currently learning backend development while continuing to build projects and explore new technologies.
 
-### What I’m learning right now 
-- **C**  –  Fundamentals & problem-solving
-- **Python**  –  Basics and scripting
-- **Git  &  GitHub**  –  Version control
-- **DSA**  –  Beginner level
+## Technologies
 
-### What’s next 
-- **Java**  (Object-Oriented Programming)
-- **Web Development**  basics
-- **Unity  &  C#**  (Game Development)
+- Python
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Unity
 
-### Let’s connect 
-- **LinkedIn:** [ujwal-gopalghare](https://www.linkedin.com/in/ujwal-gopalghare-508906364)
-- **Email:** ujwalgopalghare@gmail.com
+## Projects
 
----
-*“Consistency matters more than quantity. Building day by day.”*
+- IKS Project Website
+- More projects coming soon
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/ujwal-gopalghare/
+Portfolio: https://mandirvastu.online/
