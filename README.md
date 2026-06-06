@@ -10,7 +10,7 @@ I've worked with Python, C, Java, DSA and frontend web development, and I'm curr
 - Game Development
 
 ## Projects
-- IKS Project Website
+• MandirVastu – Digital Encyclopedia of Temple Architecture & Iconography
 
 ## Technologies
 Python • Java • C • HTML • CSS • JavaScript • Git • GitHub • Unity
