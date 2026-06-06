@@ -2,7 +2,7 @@
 
 Second-year engineering student exploring software development, game development and creative technology.
 
-I've worked with Python, C, Java, DSA and frontend web development, and I'm currently learning backend development.
+I've worked with Python, C, Java, DSA and frontend web development, and I'm currently exploring backend development through personal projects and continuous learning.
 
 ## Current Focus
 - Backend Development
