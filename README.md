@@ -16,4 +16,4 @@ I've worked with Python, C, Java, DSA and frontend web development, and I'm curr
 Python • Java • C • HTML • CSS • JavaScript • Git • GitHub • Unity
 
 ## Connect
-LinkedIn: (https://www.linkedin.com/in/ujwal-gopalghare/)
+[LinkedIn](https://www.linkedin.com/in/ujwal-gopalghare/) • [Instagram](https://www.instagram.com/ujwal.one8/) • [Linktree](https://linktr.ee/ujwalgopalghare)
